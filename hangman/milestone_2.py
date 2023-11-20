@@ -1,8 +1,8 @@
 import random
-word_list = ["pineapple", "mango", "watermelon", "cherry", "strawberry"]
-print(word_list)
-word = random.choice(word_list)
-print(word)
+create_word_list = ["pineapple", "mango", "watermelon", "cherry", "strawberry"]
+print(create_word_list)
+select_random_word_from_list = random.choice(create_word_list)
+print(select_random_word_from_list)
 
 guess = input("Enter a single letter: ")
 if len(guess) == 1 and guess.isalpha():
