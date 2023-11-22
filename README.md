@@ -11,3 +11,4 @@ milestone 2 -> milestone 3 -> milestone 4 -> milestone 5.
 The milestones contain continous improvement to the code and structure whilst implementing more functionality.
 Milestone 2: Created the variables for the game
 Milestone 3: Defined the functions and made sure the code looks neat. Contains code to check if the guessed letter is in the word.
+Milestone 4: The game class 'Hangman' was created using OOP concepts. The code added provides functionality for what will happen if the guessed letter is in the word, and if the guessed letter is not in the word.
